@@ -1,0 +1,497 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		carousel_1
+ *	@date 		Wednesday 31st of August 2022 09:50:28 AM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+
+
+
+
+#page_roomate_profile_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+}
+
+#_bg__roomate_profile_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+	background:rgba(255,255,255,0.98);
+}
+#frame_20_ek2 {
+	top: 399px;
+	left: 349px;
+	width: 8px;
+	height: 6px;
+}
+
+#_3_5_ek2 {
+	top: 398px;
+	left: 344px;
+	width: 27px;
+	height: 21px;
+	overflow: hidden;
+	font-family: SF UI Display;
+	font-size: 10px;
+	text-align: center;
+	line-height: 14.099999666214px;
+	color:#FFFFFF;
+}
+#check_ek6 {
+	top: 703px;
+	left: 24px;
+	width: 14px;
+	height: 12px;
+}
+
+#rectangle_30_ek4 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 216px;
+	background:rgba(29,137,184,1);
+}
+#profile {
+	top: 72px;
+	left: 150px;
+	width: 123px;
+	height: 52px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 33.839999198914px;
+	color:#FDFDFD;
+}
+#rectangle_39_ek3 {
+	top: 161px;
+	left: 148px;
+	width: 119px;
+	height: 111px;
+}
+#rectangle_31_ek2 {
+	top: 165px;
+	left: 152px;
+	width: 111px;
+	height: 102px;
+	-ms-border-radius: 100px;
+	-o-border-radius: 100px;
+	-moz-border-radius: 100px;
+	-webkit-border-radius: 100px;
+	border-radius: 100px;
+	background:rgba(255,255,255,0);
+}
+#search__1__1_ek5 {
+	top: 778px;
+	left: 132px;
+	width: 27px;
+	height: 24px;
+}
+
+#yusuf_olumo_ek2 {
+	opacity:0.7;
+	top: 286px;
+	left: 151px;
+	width: 133px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 22.559999465942px;
+	color:#000000;
+}
+#joined_21_06_22 {
+	top: 309px;
+	left: 174px;
+	width: 79px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 25px;
+	margin-top: -5.6666666666667px;
+	height: 39px;
+	letter-spacing: 0.08px;
+	color:#808080;
+}
+#options {
+	top: 348px;
+	left: 51px;
+	width: 313px;
+	height: 34px;
+}
+
+#call_me {
+	top: 0px;
+	left: 0px;
+	width: 149px;
+	height: 34px;
+}
+
+#rectangle_38_ek4 {
+	opacity:0.1;
+	top: 0px;
+	left: 0px;
+	width: 151px;
+	height: 36px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	border: 1px solid #1d89b8;
+	background:rgba(255,255,255,0);
+}
+#call_me_ek1 {
+	top: 10px;
+	left: 73px;
+	width: 53px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	line-height: 14.099999666214px;
+	color:#1D89B8;
+}
+#call__4__1 {
+	top: 11px;
+	left: 48px;
+	width: 14px;
+	height: 14px;
+}
+
+#group_ek40 {
+	top: 1.17px;
+	left: 1.17px;
+	width: 11.67px;
+	height: 11.67px;
+}
+
+#vector_ek76 {
+	top: 0px;
+	left: 0px;
+	width: 11.67px;
+	height: 11.67px;
+}
+#message_me_ {
+	top: 0px;
+	left: 168px;
+	width: 145px;
+	height: 34px;
+}
+
+#rectangle_40_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 145px;
+	height: 34px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(29,137,184,1);
+}
+#message_me {
+	top: 10px;
+	left: 56px;
+	width: 78px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	line-height: 14.099999666214px;
+	color:#FDFDFD;
+}
+#message__5__1 {
+	top: 10px;
+	left: 30px;
+	width: 14px;
+	height: 14px;
+}
+
+#group_ek41 {
+	top: 1.75px;
+	left: 1.17px;
+	width: 11.67px;
+	height: 10.5px;
+}
+
+#vector_ek77 {
+	top: 0px;
+	left: 0px;
+	width: 11.67px;
+	height: 10.5px;
+}
+#bio {
+	top: 405px;
+	left: 24px;
+	width: 43px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 25px;
+	margin-top: -3.6666666666667px;
+	height: 49px;
+	letter-spacing: 0.14px;
+	color:#000000;
+}
+#preferences {
+	top: 501px;
+	left: 24px;
+	width: 113px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	line-height: 25px;
+	margin-top: -3.6666666666667px;
+	height: 49px;
+	letter-spacing: 0.14px;
+	color:#000000;
+}
+#hi__i_m_so_excited_to_join_this_platform__i_am_searching_for_a_room_and_also_a_roomate_to_stay_with__i_like_this_platform_because_i_will_be_able_to_find_a_good_person_to_stay_and_get_to_know_more_about_people_that_s_all_read_more {
+	top: 430px;
+	left: 24px;
+	width: 365.5px;
+	height: 54.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 9px;
+	text-align: left;
+	line-height: 16px;
+	margin-top: -2.3333333333333px;
+	height: 63.5px;
+	letter-spacing: 0.09px;
+	color:#000000;
+}
+#ellipse_142 {
+	opacity:0.56000000238419;
+	top: 532px;
+	left: 24px;
+	width: 56px;
+	height: 56px;
+	-ms-border-radius: 28px / 28px;
+	-o-border-radius: 28px / 28px;
+	-moz-border-radius: 28px / 28px;
+	-webkit-border-radius: 28px / 28px;
+	border-radius: 28px / 28px;
+	background:rgba(217,217,217,0.56);
+}
+#ellipse_143 {
+	opacity:0.5;
+	top: 532px;
+	left: 90px;
+	width: 56px;
+	height: 56px;
+	-ms-border-radius: 28px / 28px;
+	-o-border-radius: 28px / 28px;
+	-moz-border-radius: 28px / 28px;
+	-webkit-border-radius: 28px / 28px;
+	border-radius: 28px / 28px;
+	background:rgba(217,217,217,0.5);
+}
+#ellipse_144 {
+	opacity:0.5;
+	top: 532px;
+	left: 159px;
+	width: 56px;
+	height: 56px;
+	-ms-border-radius: 28px / 28px;
+	-o-border-radius: 28px / 28px;
+	-moz-border-radius: 28px / 28px;
+	-webkit-border-radius: 28px / 28px;
+	border-radius: 28px / 28px;
+	background:rgba(217,217,217,0.5);
+}
+#ellipse_145 {
+	opacity:0.5;
+	top: 532px;
+	left: 225px;
+	width: 56px;
+	height: 56px;
+	-ms-border-radius: 28px / 28px;
+	-o-border-radius: 28px / 28px;
+	-moz-border-radius: 28px / 28px;
+	-webkit-border-radius: 28px / 28px;
+	border-radius: 28px / 28px;
+	background:rgba(217,217,217,0.5);
+}
+#ellipse_146 {
+	opacity:0.5;
+	top: 532px;
+	left: 291px;
+	width: 56px;
+	height: 56px;
+	-ms-border-radius: 28px / 28px;
+	-o-border-radius: 28px / 28px;
+	-moz-border-radius: 28px / 28px;
+	-webkit-border-radius: 28px / 28px;
+	border-radius: 28px / 28px;
+	background:rgba(217,217,217,0.5);
+}
+#notebook_dynamic_color {
+	top: 541px;
+	left: 99px;
+	width: 37px;
+	height: 37px;
+}
+#headphone_dynamic_color {
+	top: 541px;
+	left: 168px;
+	width: 37px;
+	height: 37px;
+}
+#writing {
+	top: 594px;
+	left: 29px;
+	width: 47px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: center;
+	color:#000000;
+}
+#reading {
+	top: 594px;
+	left: 95px;
+	width: 52px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: center;
+	color:#000000;
+}
+#music {
+	top: 594px;
+	left: 170px;
+	width: 40px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: center;
+	color:#000000;
+}
+#gym {
+	top: 594px;
+	left: 239px;
+	width: 34px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: center;
+	color:#000000;
+}
+#travelling {
+	top: 594px;
+	left: 292px;
+	width: 60px;
+	height: 22px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: center;
+	color:#000000;
+}
+#gym_dynamic_color {
+	top: 541px;
+	left: 234px;
+	width: 37px;
+	height: 37px;
+}
+#travel_dynamic_color {
+	top: 541px;
+	left: 300px;
+	width: 37px;
+	height: 37px;
+}
+#rectangle_33_ek1 {
+	top: 774px;
+	left: 58px;
+	width: 314px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(29,137,184,1);
+}
+#send_a_message_request {
+	top: 782px;
+	left: 111px;
+	width: 215px;
+	height: 34px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 22.559999465942px;
+	color:#FFFFFF;
+}
+
+
+
+
+
+#getting_to_know_about_you_will_help_build_your_profile_so_we_can_filter_the_best_roomate_for_you_ek2 {
+	top: 198px;
+	left: 2669px;
+	width: 350px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#F9FDFF;
+}
+
+
+#edit {
+	top: 1179px;
+	left: 3254px;
+	width: 37px;
+	height: 37px;
+}
+
+/* Add your custom CSS here */
+

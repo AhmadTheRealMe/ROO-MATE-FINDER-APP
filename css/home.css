@@ -1,0 +1,989 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		carousel_1
+ *	@date 		Wednesday 31st of August 2022 09:50:28 AM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+#page_home_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1162px;
+}
+
+#_bg__home_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 1162px;
+	background:rgba(255,255,255,0.98);
+}
+#rectangle_37 {
+	opacity:0.98000001907349;
+	top: 397px;
+	left: 35px;
+	width: 344px;
+	height: 98px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-ms-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-webkit-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	background:rgba(255,255,255,0.98);
+}
+#rectangle_38 {
+	top: 402px;
+	left: 60px;
+	width: 85px;
+	height: 85px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(115.86,113.96,224.19,1);
+}
+#_3_bedroom_apartment {
+	opacity:0.7;
+	top: 406px;
+	left: 159px;
+	width: 155px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#000000;
+}
+#garki__abuja_ {
+	opacity:0.7;
+	top: 426px;
+	left: 159px;
+	width: 63px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#n1_000_000_ {
+	top: 440px;
+	left: 159px;
+	width: 89px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#1D89B8;
+}
+#per_month {
+	top: 440px;
+	left: 233px;
+	width: 68px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	line-height: 14.099999666214px;
+	color:#4D4D4D;
+}
+#available {
+	opacity:0.5;
+	top: 475px;
+	left: 301px;
+	width: 45px;
+	height: 17px;
+	overflow: hidden;
+	font-family: SF UI Display;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#ellipse_2 {
+	top: 477px;
+	left: 289px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	background:rgba(29,137,184,1);
+}
+#rectangle_39 {
+	opacity:0.98000001907349;
+	top: 521px;
+	left: 36px;
+	width: 343px;
+	height: 98px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-ms-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-webkit-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	background:rgba(255,255,255,0.98);
+}
+#rectangle_47 {
+	opacity:0.98000001907349;
+	top: 797px;
+	left: 37px;
+	width: 343px;
+	height: 140px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-ms-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-webkit-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	background:rgba(255,255,255,0.98);
+}
+#rectangle_49 {
+	opacity:0.98000001907349;
+	top: 959px;
+	left: 38px;
+	width: 343px;
+	height: 140px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-ms-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-webkit-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	background:rgba(255,255,255,0.98);
+}
+#rectangle_40 {
+	top: 527px;
+	left: 60px;
+	width: 85px;
+	height: 85px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(115.86,113.96,224.19,1);
+}
+#rectangle_48 {
+	top: 818px;
+	left: 60px;
+	width: 85px;
+	height: 97px;
+}
+#rectangle_50 {
+	top: 980px;
+	left: 61px;
+	width: 85px;
+	height: 97px;
+}
+#a_flat_at_citec_estate {
+	opacity:0.7;
+	top: 531px;
+	left: 159px;
+	width: 143px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#000000;
+}
+#musa_alamin {
+	opacity:0.7;
+	top: 814px;
+	left: 163px;
+	width: 99px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#000000;
+}
+#mahmud_alamin {
+	opacity:0.7;
+	top: 976px;
+	left: 164px;
+	width: 121px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#000000;
+}
+#lugbe__abuja_ {
+	opacity:0.7;
+	top: 551px;
+	left: 159px;
+	width: 67px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#lugbe__abuja__ek1 {
+	opacity:0.7;
+	top: 883px;
+	left: 163px;
+	width: 68px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#garki__abuja__ek1 {
+	opacity:0.7;
+	top: 1045px;
+	left: 164px;
+	width: 64px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#budget__n750_000_per_month {
+	opacity:0.7;
+	top: 904px;
+	left: 163px;
+	width: 132px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#budget__n500_000_per_month {
+	opacity:0.7;
+	top: 1066px;
+	left: 164px;
+	width: 132px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#male_ {
+	opacity:0.7;
+	top: 852px;
+	left: 163px;
+	width: 35px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#male__ek1 {
+	opacity:0.7;
+	top: 1014px;
+	left: 164px;
+	width: 35px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#_28_years_old_ {
+	opacity:0.7;
+	top: 837px;
+	left: 163px;
+	width: 64px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#_22_years_old_ {
+	opacity:0.7;
+	top: 999px;
+	left: 164px;
+	width: 64px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#doctor_ {
+	opacity:0.7;
+	top: 868px;
+	left: 163px;
+	width: 42px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#student_ {
+	opacity:0.7;
+	top: 1030px;
+	left: 164px;
+	width: 47px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#per_month_ek1 {
+	top: 566px;
+	left: 233px;
+	width: 68px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	line-height: 14.099999666214px;
+	color:#4D4D4D;
+}
+#booked {
+	opacity:0.5;
+	top: 600px;
+	left: 301px;
+	width: 40px;
+	height: 17px;
+	overflow: hidden;
+	font-family: SF UI Display;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#ellipse_3 {
+	top: 602px;
+	left: 289px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	background:rgba(206.13,83.48,42.94,1);
+}
+#rectangle_41 {
+	opacity:0.98000001907349;
+	top: 645px;
+	left: 37px;
+	width: 342px;
+	height: 98px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-ms-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-webkit-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	background:rgba(255,255,255,0.98);
+}
+#rectangle_42 {
+	top: 652px;
+	left: 60px;
+	width: 85px;
+	height: 85px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	background:rgba(115.86,113.96,224.19,1);
+}
+#aliyu_modibbo_suites {
+	opacity:0.7;
+	top: 656px;
+	left: 159px;
+	width: 146px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#000000;
+}
+#maitama__abuja_ {
+	opacity:0.7;
+	top: 676px;
+	left: 159px;
+	width: 78px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#per_month_ek2 {
+	top: 691px;
+	left: 233px;
+	width: 68px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	text-align: left;
+	line-height: 14.099999666214px;
+	color:#4D4D4D;
+}
+#available_ek1 {
+	opacity:0.5;
+	top: 725px;
+	left: 301px;
+	width: 45px;
+	height: 17px;
+	overflow: hidden;
+	font-family: SF UI Display;
+	font-size: 8px;
+	text-align: left;
+	line-height: 11.279999732971px;
+	color:#000000;
+}
+#ellipse_4 {
+	top: 727px;
+	left: 289px;
+	width: 6px;
+	height: 6px;
+	-ms-border-radius: 3px / 3px;
+	-o-border-radius: 3px / 3px;
+	-moz-border-radius: 3px / 3px;
+	-webkit-border-radius: 3px / 3px;
+	border-radius: 3px / 3px;
+	background:rgba(29,137,184,1);
+}
+#recently_added_rooms {
+	opacity:0.7;
+	top: 360px;
+	left: 36px;
+	width: 178px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 19.7399995327px;
+	color:#000000;
+}
+#available_roomates {
+	opacity:0.7;
+	top: 760px;
+	left: 36px;
+	width: 157px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 19.7399995327px;
+	color:#000000;
+}
+#rectangle_43 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 226px;
+	background:rgba(29,137,184,1);
+}
+#rectangle_44 {
+	opacity:0.98000001907349;
+	top: 143px;
+	left: 34px;
+	width: 345px;
+	height: 196px;
+	-ms-border-radius: 8px;
+	-o-border-radius: 8px;
+	-moz-border-radius: 8px;
+	-webkit-border-radius: 8px;
+	border-radius: 8px;
+	-ms-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-o-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-webkit-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	-moz-box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	box-shadow:0px 4px 28px 1px rgba(0,0,0,0.05);
+	background:rgba(255,255,255,0.98);
+}
+#hi__ahmad {
+	top: 162px;
+	left: 49px;
+	width: 117px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#discover_our_recommendations {
+	top: 192px;
+	left: 49px;
+	width: 242px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#000000;
+}
+#partment_nearby_ {
+	opacity:0.01;
+	top: 167px;
+	left: 98px;
+	width: 139px;
+	height: 30px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 19.7399995327px;
+	color:#616161;
+}
+#component_4 {
+	top: 251px;
+	left: 78px;
+	width: 257px;
+	height: 30px;
+}
+
+#n1_000_000__ek1 {
+	top: 566px;
+	left: 159px;
+	width: 89px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#1D89B8;
+}
+#n1_000_000__ek2 {
+	top: 691px;
+	left: 160px;
+	width: 89px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	font-weight: bold;
+	text-align: left;
+	line-height: 16.919999599457px;
+	color:#1D89B8;
+}
+#rectangle_45 {
+	top: 226px;
+	left: 62px;
+	width: 294px;
+	height: 40px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(247,247,247,1);
+}
+#map_marker {
+	top: 239.25px;
+	left: 72.5px;
+	width: 18px;
+	height: 13.5px;
+}
+
+#vector {
+	top: 1px;
+	left: 4px;
+	width: 9px;
+	height: 12px;
+}
+#enter_an_address__neighbourhood_or_city {
+	opacity:0.3;
+	top: 238.5px;
+	left: 87.5px;
+	width: 226px;
+	height: 19px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	line-height: 16.919999599457px;
+	color:#000000;
+}
+#rectangle_46 {
+	top: 271px;
+	left: 61px;
+	width: 294px;
+	height: 36px;
+	-ms-border-radius: 3px;
+	-o-border-radius: 3px;
+	-moz-border-radius: 3px;
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	background:rgba(29,137,184,1);
+}
+#search_now {
+	top: 279px;
+	left: 169.5px;
+	width: 83px;
+	height: 25px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 12px;
+	text-align: center;
+	line-height: 16.919999599457px;
+	color:#FFFFFF;
+}
+#roo_mate_ek1 {
+	top: 45px;
+	left: 114px;
+	width: 200px;
+	height: 70px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 32px;
+	font-weight: bold;
+	text-align: center;
+	color:#FFFFFF;
+}
+#ic_round_verified_user {
+	top: 818px;
+	left: 255px;
+	width: 11px;
+	height: 11px;
+}
+
+#vector_ek1 {
+	top: 0.54px;
+	left: 1.38px;
+	width: 8.25px;
+	height: 10px;
+}
+#ic_round_verified_user_ek1 {
+	top: 980px;
+	left: 278px;
+	width: 11px;
+	height: 11px;
+}
+
+#vector_ek2 {
+	top: 0.54px;
+	left: 1.38px;
+	width: 8.25px;
+	height: 10px;
+}
+#rectangle_35 {
+	opacity:0.98000001907349;
+	top: 1102px;
+	left: 0px;
+	width: 414px;
+	height: 65px;
+	-ms-box-shadow:0px -5px 28px 1px rgba(0,0,0,0.15);
+	-o-box-shadow:0px -5px 28px 1px rgba(0,0,0,0.15);
+	-webkit-box-shadow:0px -5px 28px 1px rgba(0,0,0,0.15);
+	-moz-box-shadow:0px -5px 28px 1px rgba(0,0,0,0.15);
+	box-shadow:0px -5px 28px 1px rgba(0,0,0,0.15);
+	background:rgba(255,255,255,0.98);
+}
+#home_ek3 {
+	top: 1136px;
+	left: 49px;
+	width: 41px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 14.099999666214px;
+	color:#1D89B8;
+}
+#search {
+	opacity:0.5;
+	top: 1136px;
+	left: 134px;
+	width: 46px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 14.099999666214px;
+	color:#000000;
+}
+#settings {
+	opacity:0.5;
+	top: 1136px;
+	left: 225px;
+	width: 52px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 14.099999666214px;
+	color:#000000;
+}
+#account {
+	opacity:0.5;
+	top: 1136px;
+	left: 323px;
+	width: 53px;
+	height: 21px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 10px;
+	font-weight: bold;
+	text-align: center;
+	line-height: 14.099999666214px;
+	color:#000000;
+}
+#group {
+	top: 1111.4px;
+	left: 56.41px;
+	width: 19.17px;
+	height: 19.2px;
+}
+
+#vector_ek3 {
+	top: 0px;
+	left: 0px;
+	width: 19.17px;
+	height: 19.2px;
+}
+#frame_21 {
+	top: 1113px;
+	left: 339px;
+	width: 14px;
+	height: 18.05px;
+}
+
+#group_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 14px;
+	height: 18.05px;
+}
+
+#vector_ek4 {
+	top: 0px;
+	left: 3px;
+	width: 8px;
+	height: 8px;
+}
+#vector_ek5 {
+	top: 11px;
+	left: 0px;
+	width: 14px;
+	height: 7px;
+}
+#search__1__1 {
+	top: 1113px;
+	left: 140px;
+	width: 24px;
+	height: 24px;
+}
+
+#group_ek2 {
+	top: 1.53px;
+	left: 4px;
+	width: 18.9px;
+	height: 18.9px;
+}
+
+#vector_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 18.9px;
+	height: 18.9px;
+}
+#options_1 {
+	top: 1112px;
+	left: 236px;
+	width: 26px;
+	height: 26px;
+}
+
+#group_ek3 {
+	top: 3.25px;
+	left: 3.25px;
+	width: 19.5px;
+	height: 18.42px;
+}
+
+#vector_ek7 {
+	top: 0px;
+	left: 0px;
+	width: 17.33px;
+	height: 8.66px;
+}
+#vector_ek8 {
+	top: 10px;
+	left: 2px;
+	width: 17.33px;
+	height: 8.66px;
+}
+#occupants__abu_david__emmanuel_david {
+	opacity:0.8;
+	top: 461px;
+	left: 158px;
+	width: 172px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: center;
+	line-height: 11.279999732971px;
+	color:#646464;
+}
+#occupants__abu_david__emmanuel_david_ek1 {
+	opacity:0.8;
+	top: 587px;
+	left: 158px;
+	width: 172px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: center;
+	line-height: 11.279999732971px;
+	color:#646464;
+}
+#occupants__abu_david__emmanuel_david_ek2 {
+	opacity:0.8;
+	top: 710px;
+	left: 159px;
+	width: 172px;
+	height: 17px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 8px;
+	text-align: center;
+	line-height: 11.279999732971px;
+	color:#646464;
+}
+
+
+
+
+
+
+
+
+
+#getting_to_know_about_you_will_help_build_your_profile_so_we_can_filter_the_best_roomate_for_you_ek2 {
+	top: 198px;
+	left: 2669px;
+	width: 350px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#F9FDFF;
+}
+
+
+#edit {
+	top: 1179px;
+	left: 3254px;
+	width: 37px;
+	height: 37px;
+}
+
+/* Add your custom CSS here */
+

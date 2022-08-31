@@ -1,0 +1,680 @@
+/*
+ *	This content is generated from the PSD File Info.
+ *	(Alt+Shift+Ctrl+I).
+ *
+ *	@desc 		
+ *	@file 		carousel_1
+ *	@date 		Wednesday 31st of August 2022 09:50:28 AM
+ *	@title 		DESIGN
+ *	@author 	
+ *	@keywords 	
+ *	@generator 	Export Kit v1.3.figma
+ *
+*/
+
+/* Only edit this if you know what you are doing! */
+body { margin: 0px; padding: 0px; font-family:"Arial"; overflow-x:hidden; }
+
+/* Only edit this if you know what you are doing! */
+img { position: absolute; display: block; margin: 0px; border: none; padding: 0px; }
+
+/* Only edit this if you know what you are doing! */
+div { position: absolute; }
+
+#content-container { display: block; position: relative; width: 414px; height: 826px; overflow: hidden;  margin-left: auto; margin-right: auto;  }
+
+
+
+
+
+
+
+
+#page_filter_ek1 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+}
+
+#_bg__filter_ek2 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 826px;
+	background:rgba(255,255,255,0.98);
+}
+#check_ek9 {
+	top: 907px;
+	left: 24px;
+	width: 14px;
+	height: 12px;
+}
+
+#check_ek10 {
+	top: 673px;
+	left: 14px;
+	width: 14px;
+	height: 12px;
+}
+
+#rectangle_30_ek6 {
+	top: 0px;
+	left: 0px;
+	width: 414px;
+	height: 118px;
+	background:rgba(29,137,184,1);
+}
+#arrow___left_2__2__1_ek6 {
+	top: 57px;
+	left: 34px;
+	width: 24px;
+	height: 24px;
+}
+
+#group_ek43 {
+	top: 5px;
+	left: 8.5px;
+	width: 7px;
+	height: 14px;
+}
+
+#vector_ek83 {
+	top: 0px;
+	left: 0px;
+	width: 7px;
+	height: 14px;
+}
+#filter_ek3 {
+	top: 57px;
+	left: 86px;
+	width: 61px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	font-weight: bold;
+	text-align: left;
+	color:#FFFFFF;
+}
+#set_your_preferences {
+	top: 138px;
+	left: 34px;
+	width: 259px;
+	height: 48px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 22px;
+	font-weight: bold;
+	text-align: left;
+	color:#000000;
+}
+#what_is_your_preferred_location_ {
+	top: 212px;
+	left: 34px;
+	width: 314px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#who_do_you_want_to_live_with_ {
+	top: 310px;
+	left: 34px;
+	width: 292px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#religion {
+	top: 435px;
+	left: 34px;
+	width: 96px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#job {
+	top: 560px;
+	left: 34px;
+	width: 57px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#hobbies {
+	top: 685px;
+	left: 34px;
+	width: 98px;
+	height: 40px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 18px;
+	text-align: left;
+	color:#000000;
+}
+#rectangle_64 {
+	top: 249px;
+	left: 34px;
+	width: 296px;
+	height: 43px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#arrow___left_2__2__1_ek7 {
+	top: 258px;
+	left: 293px;
+	width: 24px;
+	height: 24px;
+}
+
+#group_ek44 {
+	top: 5px;
+	left: 8.5px;
+	width: 7px;
+	height: 14px;
+}
+
+#vector_ek84 {
+	top: 0px;
+	left: 0px;
+	width: 7px;
+	height: 14px;
+}
+#garki {
+	top: 258px;
+	left: 50px;
+	width: 64px;
+	height: 35px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 16px;
+	text-align: left;
+	color:#000000;
+}
+#rectangle_65 {
+	top: 347px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_68 {
+	top: 472px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_71 {
+	top: 597px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_77 {
+	top: 725px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_74 {
+	top: 597px;
+	left: 165px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_78 {
+	top: 725px;
+	left: 165px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_66 {
+	top: 373px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_69 {
+	top: 498px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_72 {
+	top: 623px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_79 {
+	top: 751px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_75 {
+	top: 623px;
+	left: 165px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_80 {
+	top: 751px;
+	left: 165px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_67 {
+	top: 399px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_70 {
+	top: 524px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_73 {
+	top: 649px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_81 {
+	top: 777px;
+	left: 34px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_76 {
+	top: 649px;
+	left: 165px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#rectangle_82 {
+	top: 777px;
+	left: 165px;
+	width: 18px;
+	height: 18px;
+	-ms-border-radius: 1px;
+	-o-border-radius: 1px;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #a3a3a3;
+	background:rgba(251,251,251,1);
+}
+#you_can_change_your_preferences_at_any_time {
+	top: 171px;
+	left: 34px;
+	width: 368.5px;
+	height: 33.5px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 15px;
+	font-weight: bold;
+	text-align: left;
+	color:#A2A2A2;
+}
+#male {
+	top: 344px;
+	left: 58px;
+	width: 54px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9797;
+}
+#female {
+	top: 370px;
+	left: 58px;
+	width: 72px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#muslim {
+	top: 469px;
+	left: 59px;
+	width: 70px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#any {
+	top: 594px;
+	left: 60px;
+	width: 47px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#any_ek1 {
+	top: 722px;
+	left: 60px;
+	width: 47px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#engineer {
+	top: 594px;
+	left: 191px;
+	width: 81px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#writing_ek1 {
+	top: 722px;
+	left: 191px;
+	width: 70px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#teacher {
+	top: 620px;
+	left: 60px;
+	width: 77px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#reading_ek1 {
+	top: 748px;
+	left: 60px;
+	width: 78px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#lawyer {
+	top: 620px;
+	left: 191px;
+	width: 69px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#swimming {
+	top: 748px;
+	left: 191px;
+	width: 95px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#doctor {
+	top: 646px;
+	left: 59px;
+	width: 66px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#eating {
+	top: 774px;
+	left: 59px;
+	width: 64px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#nurse {
+	top: 646px;
+	left: 190px;
+	width: 60px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#cooking {
+	top: 774px;
+	left: 190px;
+	width: 78px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#christian {
+	top: 495px;
+	left: 60px;
+	width: 83px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#other {
+	top: 521px;
+	left: 60px;
+	width: 59px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+#other_ek1 {
+	top: 396px;
+	left: 58px;
+	width: 59px;
+	height: 31px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	text-align: left;
+	color:#9B9898;
+}
+
+
+
+#getting_to_know_about_you_will_help_build_your_profile_so_we_can_filter_the_best_roomate_for_you_ek2 {
+	top: 198px;
+	left: 2669px;
+	width: 350px;
+	height: 73px;
+	overflow: hidden;
+	font-family: Poppins;
+	font-size: 14px;
+	font-weight: bold;
+	text-align: left;
+	color:#F9FDFF;
+}
+
+
+#edit {
+	top: 1179px;
+	left: 3254px;
+	width: 37px;
+	height: 37px;
+}
+
+/* Add your custom CSS here */
+
